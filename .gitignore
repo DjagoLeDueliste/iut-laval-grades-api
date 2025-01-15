@@ -35,6 +35,3 @@ coverage/
 
 # Cursor rules
 .cursorrules
-
-# Test files
-test/
